@@ -7,3 +7,6 @@ In our demo code we put conditions and called functions in an array that is then
 
 After an initial round the code assess the frequency of input parts and then sorsts the clauses accordingly.
 
+Code is executed by
+node demo.js
+
